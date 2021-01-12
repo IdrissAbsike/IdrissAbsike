@@ -1,4 +1,4 @@
-### Hi there, I'm Idriss ABSIKE - aka Software Engineer [linkedin] 👋
+### Hi there, I'm Idriss - aka Software Engineer [linkedin] 👋
 
 [linkedin]: https://www.linkedin.com/in/idriss-absike-841740117/
 
@@ -14,9 +14,9 @@
 [<img src="https://cdn.iconscout.com/icon/free/png-256/soundcloud-6-189763.png" width="50px" alt="Soundcloud Playing" width="350" />](https://soundcloud.com/97special)
 
 ### Connect with me:
-<img src="https://image.flaticon.com/icons/png/512/8/8807.png" width="50px" width="350" /> Email : absike30@gmail.com
+<img src="https://image.flaticon.com/icons/png/512/8/8807.png" width="25px" width="250" /> Email : absike30@gmail.com
 
-[<img src="https://image.flaticon.com/icons/png/512/87/87390.png" width="50px" alt="Soundcloud Playing" width="350" />](https://www.instagram.com/idrissabs/?hl=fr)
+[<img src="https://image.flaticon.com/icons/png/512/87/87390.png" width="25px" alt="Soundcloud Playing" width="250" />](https://www.instagram.com/idrissabs/?hl=fr) Instagrame : idrissabs
 <br />
 
 ### Languages and Tools:
