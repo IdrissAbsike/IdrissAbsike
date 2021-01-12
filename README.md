@@ -9,7 +9,7 @@
 
 ### Soundcloud Playing 🎧
 
-[<img src="https://soundcloud.com/97special" alt="Soundcloud Playing" width="350" />](https://soundcloud.com/97special)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/soundcloud-6-189763.png" alt="Soundcloud Playing" width="350" />](https://soundcloud.com/97special)
 
 ### Connect with me:
 
@@ -27,12 +27,5 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/oktadeveloper/spring-boot-microservices-example/master/client/src/favicon.ico" />]
 [<img align="left" alt="Eclipse" width="26px" src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Neon.png" />]
-
-
-
-
-<br />
-<br />
-
 
 [linkedin]: https://www.linkedin.com/in/idriss-absike-841740117/
