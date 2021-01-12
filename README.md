@@ -28,7 +28,7 @@
 <img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/oktadeveloper/spring-boot-microservices-example/master/client/src/favicon.ico"/>
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-<img align="left" alt="GitHub" width="26px" src="gi.njoyn.com/cgi/xweb/XWeb.asp?tbtoken=ZV5fSh5fDVByZ3N0MlxQZE9MBhIvaVVUdlJMWlkNB3ksWkQZKDYfAmFyc0AYGhdTSXBlF3Y%3D&chk=ZVpaShM%3D&page=ResumeUpload&AppInProgress=True&AFL=&HasPq=&NewCand=" />
+<img align="left" alt="https://www.sferalabs.cc/wp-content/uploads/github-logo-white.png"/>
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <img align="left" alt="Spring Boot" width="26px" src="https://spring-petclinic.github.io/images/logo-spring.png" />
 <img align="left" alt="Anguar" width="26px" src="https://raw.githubusercontent.com/oktadeveloper/okta-spring-boot-2-angular-8-example/master/client/src/favicon.ico" />
