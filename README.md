@@ -1,7 +1,4 @@
-### Hi there, I'm Idriss ABSIKE - aka Software Engineer[linkedin] 👋
-
-[![linkedin](https://www.linkedin.com/in/idriss-absike-841740117/)]
-
+### Hi there, I'm Idriss ABSIKE - aka Software Engineer [linkedin] 👋
 
 ## I'm single, Software Engineer !!
 
@@ -30,7 +27,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />]
 [<img align="left" alt="Angular" width="26px" src="https://raw.githubusercontent.com/oktadeveloper/spring-boot-microservices-example/master/client/src/favicon.ico" />]
 [<img align="left" alt="Eclipse" width="26px" src="https://raw.githubusercontent.com/turesheim/eclipse-icons/master/icons/source/Eclipse_Neon.png" />]
-[<img align="left" alt="Java" width="26px" src="file:///C:/Users/absik/Downloads/java-brands.svg" />]
+
 
 
 
