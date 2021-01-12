@@ -33,3 +33,4 @@
 <img align="left" alt="C#" width="26px" src="https://cdn3.iconfinder.com/data/icons/programming-languages-4/222/c-512.png" />
 <img align="left" alt=".NET" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-dot-net-1-1175179.png" />
 <img align="left" alt="Java" width="35px" src="https://www.artedigital-mx.com/wp-content/uploads/2018/10/java.png" />
+<img align="left" alt="PHP" width="35px" src="https://img.icons8.com/ios/452/php-server.png" />
