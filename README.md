@@ -1,4 +1,4 @@
-### Hi there, I'm Idriss - aka Software Engineer [linkedin] 👋
+### Hi there, My name is idriss - aka Software Engineer [linkedin] 👋
 
 [linkedin]: https://www.linkedin.com/in/idriss-absike-841740117/
 
