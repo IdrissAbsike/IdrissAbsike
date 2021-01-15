@@ -11,7 +11,7 @@
 
 ### Soundcloud Playing 🎧
 
-[<img src="https://cdn.iconscout.com/icon/free/png-256/soundcloud-6-189763.png" width="50px" alt="Soundcloud Playing" width="350" />](https://soundcloud.com/97special) [<img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/youtube-512.png" width="50px" alt="Soundcloud Playing" width="350" />](https://www.youtube.com/channel/UCAZ4QSUBIIvB3PMRmlcu6Nw/videos) [<img src="https://open.spotify.com/playlist/7hZT3TXoOifutgMtmsfbwj" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://cdn.iconscout.com/icon/free/png-256/soundcloud-6-189763.png" width="50px" alt="Soundcloud Playing" width="350" />](https://soundcloud.com/97special) [<img src="https://cdn3.iconfinder.com/data/icons/capsocial-round/500/youtube-512.png" width="50px" alt="Soundcloud Playing" width="350" />](https://www.youtube.com/channel/UCAZ4QSUBIIvB3PMRmlcu6Nw/videos) [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" width="350" />](https://open.spotify.com/playlist/7hZT3TXoOifutgMtmsfbwj)
 
 ### Connect with me:
 <img src="https://image.flaticon.com/icons/png/512/8/8807.png" width="25px" width="250" /> Email : absike30@gmail.com
