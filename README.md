@@ -2,8 +2,6 @@
 
 [linkedin]: https://www.linkedin.com/in/idriss-absike-841740117/
 
-## I'm single, Software Engineer !!
-
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
@@ -15,8 +13,6 @@
 
 ### Connect with me:
 <img src="https://image.flaticon.com/icons/png/512/8/8807.png" width="25px" width="250" /> Email : absike30@gmail.com
-
-[<img src="https://image.flaticon.com/icons/png/512/87/87390.png" width="25px" alt="Soundcloud Playing" width="250" />](https://www.instagram.com/idrissabs/?hl=fr) Instagrame : idrissabs
 <br />
 
 ### Languages and Tools:
