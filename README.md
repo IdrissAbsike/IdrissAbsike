@@ -7,8 +7,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love to draw and play Video Games and watch Movies and play sport
 
-  ![](Signature2.PNG)
-
 ### Soundcloud Playing 🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" width="250" />](https://open.spotify.com/playlist/7hZT3TXoOifutgMtmsfbwj) [<img src="https://cdn.iconscout.com/icon/free/png-256/soundcloud-6-189763.png" width="50px" alt="Soundcloud Playing" width="350" />](https://soundcloud.com/97special)
