@@ -29,6 +29,6 @@
 <img align="left" alt="Anguar" width="26px" src="https://raw.githubusercontent.com/oktadeveloper/okta-spring-boot-2-angular-8-example/master/client/src/favicon.ico" />
 <img align="left" alt="C#" width="26px" src="https://cdn3.iconfinder.com/data/icons/programming-languages-4/222/c-512.png" />
 <img align="left" alt=".NET" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-dot-net-1-1175179.png" />
-<img align="left" alt="Java" width="35px" src="https://www.artedigital-mx.com/wp-content/uploads/2018/10/java.png" />
+<img align="left" alt="Java" width="35px" src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/java-512.png" />
 <img align="left" alt="PHP" width="35px" src="https://img.icons8.com/ios/452/php-server.png" />
 <img align="left" alt="Python" width="35px" src="https://cdn.icon-icons.com/icons2/2667/PNG/512/jupyter_app_icon_161280.png" />
