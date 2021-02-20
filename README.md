@@ -27,7 +27,7 @@
 <img align="left" alt="Spring Boot" width="26px" src="https://spring-petclinic.github.io/images/logo-spring.png" />
 <img align="left" alt="Anguar" width="26px" src="https://raw.githubusercontent.com/oktadeveloper/okta-spring-boot-2-angular-8-example/master/client/src/favicon.ico" />
 <img align="left" alt="C#" width="26px" src="https://cdn3.iconfinder.com/data/icons/programming-languages-4/222/c-512.png" />
-<img align="left" alt=".NET" width="26px" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-dot-net-1-1175179.png" />
+<img align="left" alt=".NET" width="36px" src="https://cdn.iconscout.com/icon/free/png-512/microsoft-dot-net-1-1175179.png" />
 <img align="left" alt="Java" width="35px" src="https://cdn1.iconfinder.com/data/icons/system-black-circles/512/java-512.png" />
 <img align="left" alt="PHP" width="35px" src="https://img.icons8.com/ios/452/php-server.png" />
 <img align="left" alt="Robot Framework" width="60px" src="https://miro.medium.com/max/700/1*nEwEHNSUrakbfCkaC_Vgzw.jpeg" />
